@@ -1,0 +1,66 @@
+{
+    "SUPEE-10888": {
+        "community": "1.9.3.10",
+        "enterprise": "1.14.3.10"
+    },
+    "SUPEE-10752": {
+        "community": "1.9.3.9",
+        "enterprise": "1.14.3.9"
+    },
+    "SUPEE-10570": {
+        "community": "1.9.3.8",
+        "enterprise": "1.14.3.8"
+    },
+    "SUPEE-10415": {
+        "community": "1.9.3.7",
+        "enterprise": "1.14.3.7"
+    },
+    "SUPEE-10266": {
+        "community": "1.9.3.6",
+        "enterprise": "1.14.3.6"
+    },
+    "SUPEE-9767.*v2": {
+        "community": "1.9.3.4",
+        "enterprise": "1.14.3.4"
+    },
+    "SUPEE-9652": {
+        "community": "1.9.3.2",
+        "enterprise": "1.14.3.2"
+    },
+    "SUPEE-8788": {
+        "community": "1.9.3.0",
+        "enterprise": "1.14.3.0"
+    },
+    "SUPEE-7405.*v1.1": {
+        "community": "1.9.2.4",
+        "enterprise": "1.14.2.4"
+    },
+    "SUPEE-7405": {
+        "community": "1.9.2.3",
+        "enterprise": "1.14.2.3"
+    },
+    "SUPEE-6788": {
+        "community": "1.9.2.2",
+        "enterprise": "1.14.2.2"
+    },
+    "SUPEE-6482": {
+        "community": "1.9.2.1",
+        "enterprise": "1.14.2.1"
+    },
+    "SUPEE-6285": {
+        "community": "1.9.2.0",
+        "enterprise": "1.14.2.1"
+    },
+    "SUPEE-5994": {
+        "community": "1.9.2.0",
+        "enterprise": "1.14.2.1"
+    },
+    "SUPEE-5344": {
+        "community": "1.9.1.1",
+        "enterprise": "1.14.2.0"
+    },
+    "SUPEE-1533": {
+        "community": "1.9.1.1",
+        "enterprise": "1.14.2.0"
+    }
+}
